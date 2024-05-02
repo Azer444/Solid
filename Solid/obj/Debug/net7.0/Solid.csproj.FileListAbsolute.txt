@@ -12,3 +12,4 @@ C:\Users\AzerH\OneDrive\Desktop\Udemy\Bilinmesi Gereken Kutuphaneler\Solid\Solid
 C:\Users\AzerH\OneDrive\Desktop\Udemy\Bilinmesi Gereken Kutuphaneler\Solid\Solid\obj\Debug\net7.0\Solid.pdb
 C:\Users\AzerH\OneDrive\Desktop\Udemy\Bilinmesi Gereken Kutuphaneler\Solid\Solid\obj\Debug\net7.0\Solid.genruntimeconfig.cache
 C:\Users\AzerH\OneDrive\Desktop\Udemy\Bilinmesi Gereken Kutuphaneler\Solid\Solid\obj\Debug\net7.0\ref\Solid.dll
+C:\Users\AzerH\OneDrive\Desktop\Udemy\Bilinmesi Gereken Kutuphaneler\Solid\Solid\obj\Debug\net7.0\Solid.sourcelink.json

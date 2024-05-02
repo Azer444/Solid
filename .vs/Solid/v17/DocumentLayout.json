@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AzerH\\OneDrive\\Desktop\\Udemy\\Bilinmesi Gereken Kutuphaneler\\Solid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C662D44-4B4D-47C3-9767-D0C0D8993D3E}|Solid\\Solid.csproj|c:\\users\\azerh\\onedrive\\desktop\\udemy\\bilinmesi gereken kutuphaneler\\solid\\solid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C662D44-4B4D-47C3-9767-D0C0D8993D3E}|Solid\\Solid.csproj|solutionrelative:solid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C662D44-4B4D-47C3-9767-D0C0D8993D3E}|Solid\\Solid.csproj|c:\\users\\azerh\\onedrive\\desktop\\udemy\\bilinmesi gereken kutuphaneler\\solid\\solid\\ocpgood2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C662D44-4B4D-47C3-9767-D0C0D8993D3E}|Solid\\Solid.csproj|solutionrelative:solid\\ocpgood2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C662D44-4B4D-47C3-9767-D0C0D8993D3E}|Solid\\Solid.csproj|c:\\users\\azerh\\onedrive\\desktop\\udemy\\bilinmesi gereken kutuphaneler\\solid\\solid\\ocpgood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C662D44-4B4D-47C3-9767-D0C0D8993D3E}|Solid\\Solid.csproj|solutionrelative:solid\\ocpgood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C662D44-4B4D-47C3-9767-D0C0D8993D3E}|Solid\\Solid.csproj|c:\\users\\azerh\\onedrive\\desktop\\udemy\\bilinmesi gereken kutuphaneler\\solid\\solid\\ocpbad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C662D44-4B4D-47C3-9767-D0C0D8993D3E}|Solid\\Solid.csproj|solutionrelative:solid\\ocpbad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C662D44-4B4D-47C3-9767-D0C0D8993D3E}|Solid\\Solid.csproj|c:\\users\\azerh\\onedrive\\desktop\\udemy\\bilinmesi gereken kutuphaneler\\solid\\solid\\srpgood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C662D44-4B4D-47C3-9767-D0C0D8993D3E}|Solid\\Solid.csproj|solutionrelative:solid\\srpgood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C662D44-4B4D-47C3-9767-D0C0D8993D3E}|Solid\\Solid.csproj|c:\\users\\azerh\\onedrive\\desktop\\udemy\\bilinmesi gereken kutuphaneler\\solid\\solid\\srpbad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C662D44-4B4D-47C3-9767-D0C0D8993D3E}|Solid\\Solid.csproj|solutionrelative:solid\\srpbad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OCPBad.cs",
+              "DocumentMoniker": "C:\\Users\\AzerH\\OneDrive\\Desktop\\Udemy\\Bilinmesi Gereken Kutuphaneler\\Solid\\Solid\\OCPBad.cs",
+              "RelativeDocumentMoniker": "Solid\\OCPBad.cs",
+              "ToolTip": "C:\\Users\\AzerH\\OneDrive\\Desktop\\Udemy\\Bilinmesi Gereken Kutuphaneler\\Solid\\Solid\\OCPBad.cs",
+              "RelativeToolTip": "Solid\\OCPBad.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T10:32:33.794Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OCPGood2.cs",
+              "DocumentMoniker": "C:\\Users\\AzerH\\OneDrive\\Desktop\\Udemy\\Bilinmesi Gereken Kutuphaneler\\Solid\\Solid\\OCPGood2.cs",
+              "RelativeDocumentMoniker": "Solid\\OCPGood2.cs",
+              "ToolTip": "C:\\Users\\AzerH\\OneDrive\\Desktop\\Udemy\\Bilinmesi Gereken Kutuphaneler\\Solid\\Solid\\OCPGood2.cs",
+              "RelativeToolTip": "Solid\\OCPGood2.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T11:09:56.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OCPGood.cs",
+              "DocumentMoniker": "C:\\Users\\AzerH\\OneDrive\\Desktop\\Udemy\\Bilinmesi Gereken Kutuphaneler\\Solid\\Solid\\OCPGood.cs",
+              "RelativeDocumentMoniker": "Solid\\OCPGood.cs",
+              "ToolTip": "C:\\Users\\AzerH\\OneDrive\\Desktop\\Udemy\\Bilinmesi Gereken Kutuphaneler\\Solid\\Solid\\OCPGood.cs",
+              "RelativeToolTip": "Solid\\OCPGood.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T10:52:25.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AzerH\\OneDrive\\Desktop\\Udemy\\Bilinmesi Gereken Kutuphaneler\\Solid\\Solid\\Program.cs",
+              "RelativeDocumentMoniker": "Solid\\Program.cs",
+              "ToolTip": "C:\\Users\\AzerH\\OneDrive\\Desktop\\Udemy\\Bilinmesi Gereken Kutuphaneler\\Solid\\Solid\\Program.cs",
+              "RelativeToolTip": "Solid\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T10:32:52.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SRPGood.cs",
+              "DocumentMoniker": "C:\\Users\\AzerH\\OneDrive\\Desktop\\Udemy\\Bilinmesi Gereken Kutuphaneler\\Solid\\Solid\\SRPGood.cs",
+              "RelativeDocumentMoniker": "Solid\\SRPGood.cs",
+              "ToolTip": "C:\\Users\\AzerH\\OneDrive\\Desktop\\Udemy\\Bilinmesi Gereken Kutuphaneler\\Solid\\Solid\\SRPGood.cs",
+              "RelativeToolTip": "Solid\\SRPGood.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T10:33:27.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SRPBad.cs",
+              "DocumentMoniker": "C:\\Users\\AzerH\\OneDrive\\Desktop\\Udemy\\Bilinmesi Gereken Kutuphaneler\\Solid\\Solid\\SRPBad.cs",
+              "RelativeDocumentMoniker": "Solid\\SRPBad.cs",
+              "ToolTip": "C:\\Users\\AzerH\\OneDrive\\Desktop\\Udemy\\Bilinmesi Gereken Kutuphaneler\\Solid\\Solid\\SRPBad.cs",
+              "RelativeToolTip": "Solid\\SRPBad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T10:33:24.572Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
