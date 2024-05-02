@@ -1,0 +1,14 @@
+C:\Users\AzerH\OneDrive\Desktop\Udemy\Bilinmesi Gereken Kutuphaneler\Solid\Solid\bin\Debug\net7.0\Solid.exe
+C:\Users\AzerH\OneDrive\Desktop\Udemy\Bilinmesi Gereken Kutuphaneler\Solid\Solid\bin\Debug\net7.0\Solid.deps.json
+C:\Users\AzerH\OneDrive\Desktop\Udemy\Bilinmesi Gereken Kutuphaneler\Solid\Solid\bin\Debug\net7.0\Solid.runtimeconfig.json
+C:\Users\AzerH\OneDrive\Desktop\Udemy\Bilinmesi Gereken Kutuphaneler\Solid\Solid\bin\Debug\net7.0\Solid.dll
+C:\Users\AzerH\OneDrive\Desktop\Udemy\Bilinmesi Gereken Kutuphaneler\Solid\Solid\bin\Debug\net7.0\Solid.pdb
+C:\Users\AzerH\OneDrive\Desktop\Udemy\Bilinmesi Gereken Kutuphaneler\Solid\Solid\obj\Debug\net7.0\Solid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AzerH\OneDrive\Desktop\Udemy\Bilinmesi Gereken Kutuphaneler\Solid\Solid\obj\Debug\net7.0\Solid.AssemblyInfoInputs.cache
+C:\Users\AzerH\OneDrive\Desktop\Udemy\Bilinmesi Gereken Kutuphaneler\Solid\Solid\obj\Debug\net7.0\Solid.AssemblyInfo.cs
+C:\Users\AzerH\OneDrive\Desktop\Udemy\Bilinmesi Gereken Kutuphaneler\Solid\Solid\obj\Debug\net7.0\Solid.csproj.CoreCompileInputs.cache
+C:\Users\AzerH\OneDrive\Desktop\Udemy\Bilinmesi Gereken Kutuphaneler\Solid\Solid\obj\Debug\net7.0\Solid.dll
+C:\Users\AzerH\OneDrive\Desktop\Udemy\Bilinmesi Gereken Kutuphaneler\Solid\Solid\obj\Debug\net7.0\refint\Solid.dll
+C:\Users\AzerH\OneDrive\Desktop\Udemy\Bilinmesi Gereken Kutuphaneler\Solid\Solid\obj\Debug\net7.0\Solid.pdb
+C:\Users\AzerH\OneDrive\Desktop\Udemy\Bilinmesi Gereken Kutuphaneler\Solid\Solid\obj\Debug\net7.0\Solid.genruntimeconfig.cache
+C:\Users\AzerH\OneDrive\Desktop\Udemy\Bilinmesi Gereken Kutuphaneler\Solid\Solid\obj\Debug\net7.0\ref\Solid.dll
